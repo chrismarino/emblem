@@ -52,7 +52,7 @@ The machine that you will run the setup from will need the following installed:
   * [Terraform](https://learn.hashicorp.com/tutorials/terraform/install-cli)
   * [Python3](https://www.python.org/downloads)
 
-We recommend running through setup steps using Google Cloud Shell, which has the required softare pre-installed. The following will open Cloud Shell Editor and clone this repo:
+We recommend running through setup steps using Google Cloud Shell, which has the required software pre-installed. The following will open Cloud Shell Editor and clone this repo:
 
  [![Open in Cloud Shell](https://gstatic.com/cloudssh/images/open-btn.svg)](https://ssh.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https%3A%2F%2Fgithub.com%2FGoogleCloudPlatform%2Femblem&cloudshell_tutorial=docs%2Ftutorials%2Fsetup-walkthrough.md)
 
